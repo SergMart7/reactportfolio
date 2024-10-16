@@ -2,7 +2,7 @@ function ResumePage() {
   return (
     <section className="resume-section">
       <h2>Resume</h2>
-      <a href="public/assets/resume/cv.pdf" download className="resume-download">Download Resume</a>
+      <a href="/assets/resume/cv.pdf" download className="resume-download">Download Resume</a>
 
       <div className="resume-details">
         <img src="/assets/images/cv.png" alt="Resume" />
@@ -20,7 +20,6 @@ function ResumePage() {
           </ul>
         </div>
 
-        {/* Languages Spoken */}
         <div className="languages-spoken">
           <h3>Languages Spoken</h3>
           <ul>
