@@ -13,8 +13,16 @@ Hey, what's up? As a developer, I felt the need to update my professional porfol
 
 ## Usage
 
+Just have a look around :D
+
 ## Screenshots
+
+![Screenshots](/public/assets/images/ss.png)
 
 ## Contact
 
+sergiomartinezdesantiago7@gmail.com
+
 # Deployed Application
+
+[link](https://sergmart7portfolio.netlify.app/)
