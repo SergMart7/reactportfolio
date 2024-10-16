@@ -1,8 +1,8 @@
 function ErrorPage() {
     return (
-        <section className="error-section">
+      <section className="error-section">
         <h2>Page Not Found</h2>
-        <img src="/assets/images/notfound.jpg" alt="Not Found" />
+        <img src="/assets/images/notfound.jpg" alt="Page Not Found" />
       </section>
     );
   }
